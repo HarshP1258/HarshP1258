@@ -1,8 +1,5 @@
 ## 💫 About Me:
 
-
-**HarshP1258/HarshP1258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there, I'm Harsh Prajapati 👋
 
 I'm a computer science engineering student currently in my 6th semester of my diploma, passionate about building responsive and dynamic web applications. I'm geared up to transition into my degree engineering program and am always looking for the next technical challenge.
