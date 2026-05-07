@@ -21,6 +21,5 @@ I'm a computer science engineering student currently in my 6th semester of my di
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshP1258&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=HarshP1258&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
